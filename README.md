@@ -13,10 +13,12 @@ apt install ruby
 
 gem install lolcat
 
-git clone https://github.com/Giyuu~Kun/Virtex
+git clone https://github.com/Giyuu-Kun/Virtex
 
 cd virtex
 
 chmod +x virtex.sh
 
 sh virtex.sh
+
+Selesai
