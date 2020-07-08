@@ -1,11 +1,22 @@
-$ nano Alifannur19.txt
-~ copy semua yg ada di file Alifannur19.txt
-$ klik ctrl x
-$ nano .bashrc
-~ pastekan di dalam .bashrc
-$ klik ctrl x
-$ nano log.py
-~ cari yang namanya
-        ~ if x=="Username" and e=="Password":
-~ username di ganti nick kamu
-~ password diganti Password sesuai keinginan kamu
+# VIRTEX
+Virtex for Whatsapp
+
+apt update && apt upgrade
+
+apt install git
+
+apt install curl
+
+apt install figlet
+
+apt install ruby
+
+gem install lolcat
+
+git clone https://github.com/Giyuu~Kun/Virtex
+
+cd virtex
+
+chmod +x virtex.sh
+
+sh virtex.sh
